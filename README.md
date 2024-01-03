@@ -2,8 +2,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-<img src="https://i.ibb.co/rMVJPN7/thumbnail-image0.jpg" alt="thumbnail-image0" border="0">
+  <img height="200" src="https://i.ibb.co/Sv5xvFm/IMG-2231.jpg"  />
 </div>
 
 ###
@@ -16,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently a student studying Science in Information Technology.<br>🎯 I'm new to GitHub and found out about their student developer pack which is exciting!<br>:bulb: I would love to meet new people in programming and other IT fields.<br>:mailbox: Please feel free to reach out!<br>:dependabot: @grflip</p>
+<p align="left">📚 I'm currently a student studying Science in Information Technology.<br>🎯 I'm new to GitHub and found out about their student developer pack which is exciting!<br>:bulb: I would love to meet new people in programming and other IT fields.<br>:mailbox: Please feel free to reach out!<br>:dependabot: @grflip</p>
 
 ###
 
