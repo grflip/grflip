@@ -1,11 +1,45 @@
-Hi all!👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-![resizeprofilimg](https://github.com/grflip/grflip/assets/73009416/82ac1ad5-2e8c-4566-9de9-875e341e070a)
+###
 
-My name is Greg and I'm currently a student studying Science in Information Technology.
-I only just joined GitHub and found out about their student developer pack which is extremely exciting!
-I am brand new and do not currently have any projects but some suggestions and beginner projects would be a wonderful start.
-I would love to meet new people in programming fields and other IT fields.
-If there are ways to contact others through GitHub such as an instant messaging service, please feel free to reach out, my username is grflip!
-Hope to make some new friends!
+<div align="left">
+  <img height="200" src="https://ibb.co/d6Ry9xW"  />
+</div>
 
+###
+
+<p align="left">My name is Greg and I'm from Orange County, California.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently a student studying Science in Information Technology.<br>🎯 I'm new to GitHub and found out about their student developer pack which is exciting!<br>:bulb: I would love to meet new people in programming and other IT fields.<br>:mailbox: Please feel free to reach out!<br>:dependabot: @grflip</p>
+
+###
+
+<h2 align="left">Basic Knowledge of</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
